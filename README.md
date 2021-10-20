@@ -22,3 +22,6 @@
 - HTML5;
 - CSS3;
 - JAVASCRIPT.
+<br/><br/>
+
+[Acesse]( https://victor-rafael.github.io/Compra-de-pizzas/)
